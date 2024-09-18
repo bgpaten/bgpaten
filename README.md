@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bgpaten.bgpaten" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Kukuh+Ahyar+Pattani;+I'm+a+Web+%26+Mobile+Developer;Welcome+to+my+portfolio!" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kukuh+Ahyar+Pattani;a+Web+%26+Mobile+Developer;Welcome+to+my+portfolio!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Crafting digital experiences with passion from Pekanbaru, Indonesia 🇮🇩</h3>
