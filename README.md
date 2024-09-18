@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='https://wa.me/62813633425884' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://png.pngtree.com/png-clipart/20190516/original/pngtree-whatsapp-icon-png-image_3584844.jpg' border='0' alt='Contact Me' /></a>
+<a href='https://wa.me/62813633425884' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://img.icons8.com/?size=100&id=16712&format=png&color=000000' border='0' alt='Contact Me' />Contact Me</a>
 </div>
 
 <br/>
