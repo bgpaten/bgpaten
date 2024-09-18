@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='https://wa.me/62813633425884' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://img.icons8.com/?size=100&id=16712&format=png&color=000000' border='0' alt='Contact Me' />Contact Me</a>
+<a href='https://wa.me/62813633425884' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://img.icons8.com/?size=100&id=43677&format=png&color=000000' border='0' alt='Contact Me' /></a>
 </div>
 
 <br/>
