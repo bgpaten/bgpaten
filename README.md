@@ -16,8 +16,6 @@
 
 💬 Ask me about **Node.js, React, Firebase, Express... or anything [here](https://github.com/bgapten/bgpaten/issues)**
 
-⚡ Fun fact **Keep playing Mobile Legends even if you loserake with loads**
-
  </div>
  
 <div align="center"> 
